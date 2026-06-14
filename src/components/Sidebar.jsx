@@ -5,6 +5,9 @@ const links = [
   { to: "/articles", label: "Articles" },
   { to: "/subscribers", label: "Subscribers" },
   { to: "/newsletter", label: "Newsletter" },
+  { to: "/volunteer", label: "volunteer" },
+   { to: "/stories", label: "stories" },
+   {to:"/messages",label:"messages"}
 ];
 
 export default function Sidebar() {
